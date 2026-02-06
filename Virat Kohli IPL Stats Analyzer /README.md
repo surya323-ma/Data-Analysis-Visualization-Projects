@@ -1,4 +1,4 @@
-Hello developers! Welcome to the Virat Kohli IPL Stats Analyzer Project! ⚾🏏
+Virat Kohli IPL Stats Analyzer Project! ⚾🏏
 
 Virat Kohli is one of the greatest batsmen in modern cricket. Over the years, he has delivered countless match-winning performances in the Indian Premier League (IPL).
 
